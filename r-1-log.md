@@ -1,6 +1,6 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - [Sophia Brandt]
 
-The log of my #100DaysOfCode challenge. Started on [February 5, Tuesday, 2019].
+The log of my #100DaysOfCode challenge. Started on February 5, Tuesday, 2019.
 
 ## Log
 
@@ -10,3 +10,7 @@ Continued with the Functional Comments frontend app. Added the delete function. 
 [Functional Comments](https://github.com/sophiabrandt/functional-comments)
 
 ### R1D2
+
+Continued Functional Comments app - couldn't get initial API call working. I need to re-check my understanding of Promises. [Deployed app with results so far.](https://sophiabrandt.github.io/functional-comments/)
+
+Worked on my [minimal webpack babel boilerplate](https://github.com/sophiabrandt/minimal-webpack-babel-setup). I would like to add hashing for css and javascript but that doesn't work yet.
