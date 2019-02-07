@@ -14,3 +14,8 @@ Continued with the Functional Comments frontend app. Added the delete function. 
 Continued Functional Comments app - couldn't get initial API call working. I need to re-check my understanding of Promises. [Deployed app with results so far.](https://sophiabrandt.github.io/functional-comments/)
 
 Worked on my [minimal webpack babel boilerplate](https://github.com/sophiabrandt/minimal-webpack-babel-setup). I would like to add hashing for CSS and Javascript but that doesn't work yet. _(Update: got it working)_
+
+### R1D3
+
+Started Functional Movie Search frontend app - uses the same template as [Functional Comments](https://sophiabrandt.github.io/functional-comments/). The goal is to create a simple movie search with the OMDb API and display the result as cards. Couldn't get the API call working yet.  
+[Functional Movie Search](https://sophiabrandt.github.io/functional-comments/)
