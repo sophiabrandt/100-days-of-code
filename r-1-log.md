@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Sophia Brandt]
+# #100DaysOfCode Log - Round 1 - Sophia Brandt
 
 The log of my #100DaysOfCode challenge. Started on February 5, Tuesday, 2019.
 
@@ -18,4 +18,10 @@ Worked on my [minimal webpack babel boilerplate](https://github.com/sophiabrandt
 ### R1D3
 
 Started Functional Movie Search frontend app - uses the same template as [Functional Comments](https://sophiabrandt.github.io/functional-comments/). The goal is to create a simple movie search with the OMDb API and display the result as cards. Couldn't get the API call working yet.  
-[Functional Movie Search](https://sophiabrandt.github.io/functional-comments/)
+[Functional Movie Search](https://sophiabrandt.github.io/functional-movie-search/)
+
+### R1D4
+
+Finished app: [Functional Movie Search](https://sophiabrandt.github.io/functional-movie-search/) - [live demo](https://sophiabrandt.github.io/functional-movie-search/).  
+Continued working on the [Face Recognition Brain](https://github.com/sophiabrandt/face-recognition-brain) frontend and [backend](https://github.com/sophiabrandt/face-recognition-brain-api).  
+Started [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/).
