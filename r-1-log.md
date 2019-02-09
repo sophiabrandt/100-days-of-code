@@ -24,3 +24,7 @@ Started Functional Movie Search frontend app - uses the same template as [Functi
 Finished app: [Functional Movie Search](https://sophiabrandt.github.io/functional-movie-search/) - [live demo](https://sophiabrandt.github.io/functional-movie-search/).  
 Continued working on the [Face Recognition Brain](https://github.com/sophiabrandt/face-recognition-brain) frontend and [backend](https://github.com/sophiabrandt/face-recognition-brain-api).  
 Started [Mastering Chrome Developer Tools v2](https://frontendmasters.com/courses/chrome-dev-tools-v2/).
+
+### R1D5
+
+Continued working on the [Face Recognition Brain](https://github.com/sophiabrandt/face-recognition-brain) frontend and [backend](https://github.com/sophiabrandt/face-recognition-brain-api).
