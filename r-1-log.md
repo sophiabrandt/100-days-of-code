@@ -32,3 +32,7 @@ Continued working on the [Face Recognition Brain](https://github.com/sophiabrand
 ### R1D6
 
 Continued working on the [Face Recognition Brain](https://github.com/sophiabrandt/face-recognition-brain) frontend and [backend](https://github.com/sophiabrandt/face-recognition-brain-api). Learning about PostgreSQL (and SQL in general).
+
+### R1D7
+
+Finished [Face Recognition Brain](https://github.com/sophiabrandt/face-recognition-brain) frontend and [backend](https://github.com/sophiabrandt/face-recognition-brain-api). Deployed to [Heroku](https://fc-recognition-brain.herokuapp.com/) - give it a try!
