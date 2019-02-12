@@ -36,3 +36,8 @@ Continued working on the [Face Recognition Brain](https://github.com/sophiabrand
 ### R1D7
 
 Finished [Face Recognition Brain](https://github.com/sophiabrandt/face-recognition-brain) frontend and [backend](https://github.com/sophiabrandt/face-recognition-brain-api). Deployed to [Heroku](https://fc-recognition-brain.herokuapp.com/) - give it a try!
+
+### R1D8
+
+Did the first day of the [Free GraphQL Bootcamp with Vladimir Novick](https://tylermcginnis.com/free-graphql-bootcamp/).  
+Worked on the [Daily Coding Problem](https://www.dailycodingproblem.com/) - log is in this [github](https://github.com/sophiabrandt/daily-coding-problem-python).
