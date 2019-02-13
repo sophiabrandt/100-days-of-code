@@ -41,3 +41,8 @@ Finished [Face Recognition Brain](https://github.com/sophiabrandt/face-recogniti
 
 Did the first day of the [Free GraphQL Bootcamp with Vladimir Novick](https://tylermcginnis.com/free-graphql-bootcamp/).  
 Worked on the [Daily Coding Problem](https://www.dailycodingproblem.com/) - log is in this [github](https://github.com/sophiabrandt/daily-coding-problem-python).
+
+### R1D9
+
+Worked on [Zero to Mastery Coding Challenge 14](https://github.com/zero-to-mastery/coding_challenge-14) - vanilla JS is hard.  
+Workd on the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-02).
