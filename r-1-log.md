@@ -45,4 +45,9 @@ Worked on the [Daily Coding Problem](https://www.dailycodingproblem.com/) - log 
 ### R1D9
 
 Worked on [Zero to Mastery Coding Challenge 14](https://github.com/zero-to-mastery/coding_challenge-14) - vanilla JS is hard.  
-Workd on the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-02).
+Workd on the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-02).  
+Did the [GraphQL Bootcamp Day 01](https://github.com/vnovick/graphql-fullstack-bootcamp).
+
+### R1D10
+
+Worked on algorithm challenges. Did the [GraphQL Bootcamp Day 02 + 03](https://github.com/vnovick/graphql-fullstack-bootcamp).
