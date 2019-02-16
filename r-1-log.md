@@ -59,3 +59,8 @@ Started [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-prob
 [Flexbox Froggy](https://flexboxfroggy.com/).  
 Learned about data structures.  
 Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-04). Still have lots of work ahead of me until I'm proficient with these kind of challenges.
+
+### R1D12
+
+Learned about data structures. Did [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/).  
+Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-05).
