@@ -64,3 +64,9 @@ Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-prob
 
 Learned about data structures. Did [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/).  
 Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-05).
+
+### R1D13
+
+Did [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/).  
+Played around with recursion - with wrapper functions and accumulators in JavaScript.  
+Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-06) - found it very hard because I know almost nothing about linked lists.
