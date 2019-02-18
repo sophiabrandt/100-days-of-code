@@ -70,3 +70,8 @@ Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-prob
 Did [A Practical Guide to Algorithms with JavaScript](https://frontendmasters.com/courses/practical-algorithms/).  
 Played around with recursion - with wrapper functions and accumulators in JavaScript.  
 Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-problem-python/blob/master/daily-coding-problem.md#day-06) - found it very hard because I know almost nothing about linked lists.
+
+### R1D14
+
+More algorithms, playing around with bubble sort and recursion.  
+Playing around with Elixir.
