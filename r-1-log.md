@@ -75,3 +75,9 @@ Did the [Daily Coding Problem](https://github.com/sophiabrandt/daily-coding-prob
 
 More algorithms, playing around with bubble sort and recursion.  
 Playing around with Elixir.
+
+### R1D15
+
+Working on a full stack Node/React app: [feedbacky](https://github.com/sophiabrandt/feedbacky)  
+Playing around with [Elixir](https://pragmaticstudio.com/elixir).  
+First impressions: a friendly, functional language with great documentation.
