@@ -78,6 +78,13 @@ Playing around with Elixir.
 
 ### R1D15
 
-Working on a full stack Node/React app: [feedbacky](https://github.com/sophiabrandt/feedbacky)  
+Working on a full stack Node/React app: [feedbacky](https://github.com/sophiabrandt/feedbacky).  
 Playing around with [Elixir](https://pragmaticstudio.com/elixir).  
 First impressions: a friendly, functional language with great documentation.
+
+### R1D16
+
+Working on a full stack Node/React app: [feedbacky](https://github.com/sophiabrandt/feedbacky).  
+Learned about [Bubble Sort](https://www.rockyourcode.com/bubble-sort-in-java-script).  
+I didn't do the [Daily Coding Problems](https://github.com/sophiabrandt/daily-coding-problem-python/) and will have to do them tomorrow.  
+Playing around with [Elixir](https://pragmaticstudio.com/elixir) and [Phoenix](https://phoenixframework.org/).
