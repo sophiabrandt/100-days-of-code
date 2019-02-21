@@ -88,3 +88,7 @@ Working on a full stack Node/React app: [feedbacky](https://github.com/sophiabra
 Learned about [Bubble Sort](https://www.rockyourcode.com/bubble-sort-in-java-script).  
 I didn't do the [Daily Coding Problems](https://github.com/sophiabrandt/daily-coding-problem-python/) and will have to do them tomorrow.  
 Playing around with [Elixir](https://pragmaticstudio.com/elixir) and [Phoenix](https://phoenixframework.org/).
+
+### R1D17
+
+Worked with [Gitkraken](http://gitkraken.com).
