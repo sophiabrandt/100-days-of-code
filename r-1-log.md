@@ -91,4 +91,6 @@ Playing around with [Elixir](https://pragmaticstudio.com/elixir) and [Phoenix](h
 
 ### R1D17
 
-Worked with [Gitkraken](http://gitkraken.com).
+Worked with [Gitkraken](http://gitkraken.com).  
+Worked on a full stack Node/React app: [feedbacky](https://github.com/sophiabrandt/feedbacky) - authentication is hard.  
+Playing around with recursion and Elixir.
