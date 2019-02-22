@@ -94,3 +94,8 @@ Playing around with [Elixir](https://pragmaticstudio.com/elixir) and [Phoenix](h
 Worked with [Gitkraken](http://gitkraken.com).  
 Worked on a full stack Node/React app: [feedbacky](https://github.com/sophiabrandt/feedbacky) - authentication is hard.  
 Playing around with recursion and Elixir.
+
+### R1D18
+
+Frustrating day with setting up personal portfolio site with hugo and netlify - tons of errors because of a bug with netlify.  
+Worked a bit with Node.js and Elixir.
