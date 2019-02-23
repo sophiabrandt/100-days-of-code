@@ -99,3 +99,8 @@ Playing around with recursion and Elixir.
 
 Frustrating day with setting up personal portfolio site with hugo and netlify - tons of errors because of a bug with netlify.  
 Worked a bit with Node.js and Elixir.
+
+### R1D19
+
+[Elixir](https://pragmaticstudio.com/elixir) course and working on [feedbacky](https://github.com/sophiabrandt/feedbacky).  
+Refreshing CSS (Flexbox and Grid) with [Frontend Masters](https://frontendmasters.com/courses/css-grids-flexbox/).
