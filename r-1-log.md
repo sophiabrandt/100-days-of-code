@@ -104,3 +104,9 @@ Worked a bit with Node.js and Elixir.
 
 [Elixir](https://pragmaticstudio.com/elixir) course and working on [feedbacky](https://github.com/sophiabrandt/feedbacky).  
 Refreshing CSS (Flexbox and Grid) with [Frontend Masters](https://frontendmasters.com/courses/css-grids-flexbox/).
+
+### R1D20
+
+Learning about Elixir and Phoenix.  
+Working on [feedbacky](https://github.com/sophiabrandt/feedbacky). It was complicated to set up the http proxy for Google Auth.  
+Learning about Flexbox and Grid with [Frontend Masters](https://frontendmasters.com/courses/css-grids-flexbox/).
