@@ -110,3 +110,9 @@ Refreshing CSS (Flexbox and Grid) with [Frontend Masters](https://frontendmaster
 Learning about Elixir and Phoenix.  
 Working on [feedbacky](https://github.com/sophiabrandt/feedbacky). It was complicated to set up the http proxy for Google Auth.  
 Learning about Flexbox and Grid with [Frontend Masters](https://frontendmasters.com/courses/css-grids-flexbox/).
+
+### R1D21
+
+Tried an "easy" leetcode algorithm but wasn't in the right headspace. Couldn't solve it and have to come back later.  
+Worked on Fullstack JS app [feedbacky](https://github.com/sophiabrandt/feedbacky): added Stripe to backend and frontend.  
+Followed the [Elixir course](https://pragmaticstudio.com/elixir).
