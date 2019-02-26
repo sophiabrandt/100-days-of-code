@@ -116,3 +116,8 @@ Learning about Flexbox and Grid with [Frontend Masters](https://frontendmasters.
 Tried an "easy" leetcode algorithm but wasn't in the right headspace. Couldn't solve it and have to come back later.  
 Worked on Fullstack JS app [feedbacky](https://github.com/sophiabrandt/feedbacky): added Stripe to backend and frontend.  
 Followed the [Elixir course](https://pragmaticstudio.com/elixir).
+
+### R1D22
+
+Heroku Deployment Woes with my Node.js/React.js app. But I managed to get it working (play nice with yarn and environmental variables). Worked a bit with Elixir and Phoenix and eex files (template syntax looks ugly).  
+I'm a bit confused about Elixir's data structures: tuples, keyword lists, maps, structs, etc. Why Keyword Lists?
