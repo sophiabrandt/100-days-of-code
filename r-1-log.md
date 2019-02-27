@@ -121,3 +121,8 @@ Followed the [Elixir course](https://pragmaticstudio.com/elixir).
 
 Heroku Deployment Woes with my Node.js/React.js app. But I managed to get it working (play nice with yarn and environmental variables). Worked a bit with Elixir and Phoenix and eex files (template syntax looks ugly).  
 I'm a bit confused about Elixir's data structures: tuples, keyword lists, maps, structs, etc. Why Keyword Lists?
+
+### R1D23
+
+I updated one of my components in [https://github.com/sophiabrandt/url-shortener-react](https://github.com/sophiabrandt/url-shortener-react) to Hooks. It's always harder to get something working in an existing app than from a fresh tutorial...  
+One of the best resources I found was a blog post by Robin Wieruch: [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/).
