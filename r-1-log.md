@@ -126,3 +126,9 @@ I'm a bit confused about Elixir's data structures: tuples, keyword lists, maps, 
 
 I updated one of my components in [https://github.com/sophiabrandt/url-shortener-react](https://github.com/sophiabrandt/url-shortener-react) to Hooks. It's always harder to get something working in an existing app than from a fresh tutorial...  
 One of the best resources I found was a blog post by Robin Wieruch: [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/).
+
+### R1D24
+
+Further refactored [URL Shortener React](https://github.com/sophiabrandt/url-shortener-react) to use Hooks instead of state and class component. I was first on the wrong path with trying to use a `useEffect` Hook when a `useState` Hook was enough.  
+I learned more about Elixir and Phoenix.  
+I worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
