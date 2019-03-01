@@ -132,3 +132,8 @@ One of the best resources I found was a blog post by Robin Wieruch: [How to fetc
 Further refactored [URL Shortener React](https://github.com/sophiabrandt/url-shortener-react) to use Hooks instead of state and class component. I was first on the wrong path with trying to use a `useEffect` Hook when a `useState` Hook was enough.  
 I learned more about Elixir and Phoenix.  
 I worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
+
+### R1D25
+
+Some Elixir testing with ExUnit. A bit of Phoenix (seems daunting).  
+I worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
