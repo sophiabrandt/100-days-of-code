@@ -137,3 +137,9 @@ I worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Expr
 
 Some Elixir testing with ExUnit. A bit of Phoenix (seems daunting).  
 I worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
+
+### R1D26
+
+Trying to wrap my head around algorithms/data structures/sorting algorithms.  
+Working on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).  
+Some Elixir/Phoenix (Pub/Sub channel).
