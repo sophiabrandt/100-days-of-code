@@ -143,3 +143,9 @@ I worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Expr
 Trying to wrap my head around algorithms/data structures/sorting algorithms.  
 Working on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).  
 Some Elixir/Phoenix (Pub/Sub channel).
+
+### R1D27
+
+Poking around Clojure and getting frustrated with its tooling.  
+Working on Elixir/Phoenix.  
+Working on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
