@@ -153,4 +153,6 @@ Working on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Expre
 ### R1D28
 
 Worked on Algorithms ([Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)).  
-Worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
+Worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).  
+Learned about authentication in Elixir/Phoenix.  
+Started using Vim.
