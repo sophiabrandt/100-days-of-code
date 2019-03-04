@@ -149,3 +149,7 @@ Some Elixir/Phoenix (Pub/Sub channel).
 Poking around Clojure and getting frustrated with its tooling.  
 Working on Elixir/Phoenix.  
 Working on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).
+
+### R1D28
+
+Worked on Algorithms ([Master the Coding Interview: Data Structures + Algorithms](https://www.udemy.com/master-the-coding-interview-data-structures-algorithms/)).
