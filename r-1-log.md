@@ -156,3 +156,9 @@ Worked on Algorithms ([Master the Coding Interview: Data Structures + Algorithms
 Worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).  
 Learned about authentication in Elixir/Phoenix.  
 Started using Vim.
+
+### R1D29
+
+More playing around with Vim/Neovim - watched some Youtube videos to get a better sense on what's possible.  
+Worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).  
+Worked on oAuth with Elixir/Phoenix.
