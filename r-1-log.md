@@ -162,3 +162,10 @@ Started using Vim.
 More playing around with Vim/Neovim - watched some Youtube videos to get a better sense on what's possible.  
 Worked on [feedbacky](https://github.com/sophiabrandt/feedbacky) (Node.js/Express.js).  
 Worked on oAuth with Elixir/Phoenix.
+
+### R1D30
+
+Mostly wrangling with Vim.  
+Some work on [feedbacky](https://github.com/sophiabrandt/feedbacky).  
+Some Elixir/Phoenix.  
+No JavaScript today.
