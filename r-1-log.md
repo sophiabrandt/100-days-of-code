@@ -167,5 +167,9 @@ Worked on oAuth with Elixir/Phoenix.
 
 Mostly wrangling with Vim.  
 Some work on [feedbacky](https://github.com/sophiabrandt/feedbacky).  
-Some Elixir/Phoenix.  
-No JavaScript today.
+Some Elixir/Phoenix.
+
+### R1D31
+
+Mostly fiddling around with [Spacemacs](https://github.com/syl20bnr/spacemacs).  
+Some work with Elixir/Phonix. Reading the book [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6). Trying to wrap my head around GenServers and OTP.
