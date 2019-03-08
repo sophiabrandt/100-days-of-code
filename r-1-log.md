@@ -173,3 +173,10 @@ Some Elixir/Phoenix.
 
 Mostly fiddling around with [Spacemacs](https://github.com/syl20bnr/spacemacs).  
 Some work with Elixir/Phonix. Reading the book [Programming Elixir 1.6](https://pragprog.com/book/elixir16/programming-elixir-1-6). Trying to wrap my head around GenServers and OTP.
+
+### R1D32
+
+I really like Vim keybindings, but I'm not happy with any of the "geeky" solutions (Vim/Neovim, Spacemacs, SpaceVim). [SpaceVim](https://spacevim.org/) seems like the easiest to get started with - it does the heavy lifting of setting up sane defaults. On the other hand, it comes pre-configured with some things that I don't like. And I haven't figured out how to change that.  
+To get at least _some_ work done, I'll switch back to VS Code, but will continue to experiment with SpaceVim and Spacemacs.  
+I managed to continue with my Phoenix app (Plugs).
+
