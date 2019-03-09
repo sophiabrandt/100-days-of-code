@@ -180,3 +180,7 @@ I really like Vim keybindings, but I'm not happy with any of the "geeky" solutio
 To get at least _some_ work done, I'll switch back to VS Code, but will continue to experiment with SpaceVim and Spacemacs.  
 I managed to continue with my Phoenix app (Plugs).
 
+### R1D33
+
+SpaceVim was too heavily customized to my liking. I'm slowly becoming friends with Neovim in my st terminal with tmux wrapper (Manjaro Linux).  
+Continued with Elixir app (websockets).
