@@ -184,3 +184,7 @@ I managed to continue with my Phoenix app (Plugs).
 
 SpaceVim was too heavily customized to my liking. I'm slowly becoming friends with Neovim in my st terminal with tmux wrapper (Manjaro Linux).  
 Continued with Elixir app (websockets).
+
+### R1D34
+
+[Learning more about Vim](https://thoughtbot.com/upcase/vim) and working on Elixir app (websockets).
