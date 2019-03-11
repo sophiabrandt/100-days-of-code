@@ -188,3 +188,7 @@ Continued with Elixir app (websockets).
 ### R1D34
 
 [Learning more about Vim](https://thoughtbot.com/upcase/vim) and working on Elixir app (websockets).
+
+### R1D35
+
+More Elixir websockets and Vim (see above).
