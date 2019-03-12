@@ -192,3 +192,8 @@ Continued with Elixir app (websockets).
 ### R1D35
 
 More Elixir websockets and Vim (see above).
+
+### R1D36
+
+[Today I learned about `bashrc` and PATH](https://www.rockyourcode.com/bash-and-path). I also continued with Phoenix app (websockets).  
+I fiddled around with NeoVim. I uploaded my [dotfiles](https://github.com/sophiabrandt/dotfiles).
