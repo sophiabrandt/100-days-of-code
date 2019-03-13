@@ -197,3 +197,11 @@ More Elixir websockets and Vim (see above).
 
 [Today I learned about `bashrc` and PATH](https://www.rockyourcode.com/bash-and-path). I also continued with Phoenix app (websockets).  
 I fiddled around with NeoVim. I uploaded my [dotfiles](https://github.com/sophiabrandt/dotfiles).
+
+### R1D37
+
+I continued my (Neo)Vim journey and learned something useful about text objects.  
+I finished the Elixir/Phoenix Udemy course.  
+I continued with [feedbacky](https://github.com/sophiabrandt/feedbacky).  
+I created a [FieldArray](https://redux-form.com/8.1.0/examples/fieldarrays/) and realized that you can't use Ramda's `map` to create a JSX tag because `Functions are not valid as a React child`.
+[You can use a parent div and use a standard JS `map` function inside that div though](https://github.com/sophiabrandt/feedbacky/commit/40d2c2887a35e6020fa7dcd150f2803670176f4d).
