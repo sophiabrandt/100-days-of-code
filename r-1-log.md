@@ -205,3 +205,9 @@ I finished the Elixir/Phoenix Udemy course.
 I continued with [feedbacky](https://github.com/sophiabrandt/feedbacky).  
 I created a [FieldArray](https://redux-form.com/8.1.0/examples/fieldarrays/) and realized that you can't use Ramda's `map` to create a JSX tag because `Functions are not valid as a React child`.
 [You can use a parent div and use a standard JS `map` function inside that div though](https://github.com/sophiabrandt/feedbacky/commit/40d2c2887a35e6020fa7dcd150f2803670176f4d).
+
+### R1D38
+
+I practiced my (Neo)Vim skills and understanding and set up language support for TypeScript and Clojure/ClojureScript.  
+I started with the [egghead.io course **Up and Running with TypeScript**](https://egghead.io/courses/up-and-running-with-typescript).  
+I learned how to serve Markdown files with Elixir.
