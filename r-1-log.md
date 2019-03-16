@@ -211,3 +211,9 @@ I created a [FieldArray](https://redux-form.com/8.1.0/examples/fieldarrays/) and
 I practiced my (Neo)Vim skills and understanding and set up language support for TypeScript and Clojure/ClojureScript.  
 I started with the [egghead.io course **Up and Running with TypeScript**](https://egghead.io/courses/up-and-running-with-typescript).  
 I learned how to serve Markdown files with Elixir.
+
+### R1D39
+
+I finished [egghead.io course **Up and Running with TypeScript**](https://egghead.io/courses/up-and-running-with-typescript). This only gives you a small taste of TypeScript.  
+Started the [Frontend Masters](https://frontendmasters.com) TypeScript workshop. Very interesting.  
+Switched Neovim plugin for Typescript to [nvim-typescript](https://github.com/mhartington/nvim-typescript).
