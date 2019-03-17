@@ -217,3 +217,8 @@ I learned how to serve Markdown files with Elixir.
 I finished [egghead.io course **Up and Running with TypeScript**](https://egghead.io/courses/up-and-running-with-typescript). This only gives you a small taste of TypeScript.  
 Started the [Frontend Masters](https://frontendmasters.com) TypeScript workshop. Very interesting.  
 Switched Neovim plugin for Typescript to [nvim-typescript](https://github.com/mhartington/nvim-typescript).
+
+### R1D40
+
+Continued with [Frontend Masters](https://frontendmasters.com) TypeScript workshop.  
+Continued with Node.js/React.js app.
