@@ -222,3 +222,10 @@ Switched Neovim plugin for Typescript to [nvim-typescript](https://github.com/mh
 
 Continued with [Frontend Masters](https://frontendmasters.com) TypeScript workshop.  
 Continued with Node.js/React.js app.
+
+### R1D41
+
+A repeat of yesterday.  
+Continued with [Frontend Masters](https://frontendmasters.com) TypeScript workshop.  
+Continued with Node.js/React.js app.  
+Practiced some basic Elixir code.
