@@ -229,3 +229,9 @@ A repeat of yesterday.
 Continued with [Frontend Masters](https://frontendmasters.com) TypeScript workshop.  
 Continued with Node.js/React.js app.  
 Practiced some basic Elixir code.
+
+### R1D42
+
+Continued with [Frontend Masters](https://frontendmasters.com) TypeScript workshop.  
+Continued with Node.js/React.js app. Learnd about the differences between Lodash's chain methond and Ramda's chain method.  
+Practiced some basic Elixir code with [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers).
