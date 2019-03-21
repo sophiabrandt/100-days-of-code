@@ -240,3 +240,9 @@ Practiced some basic Elixir code with [Elixir for Programmers](https://codestool
 
 Continued with Node.js/React.js app: [feedbacky](https://github.com/sophiabrandt/feedbacky).  
 Practiced some basic Elixir code with [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers).
+
+### R1D44
+
+Continued with Node.js/React.js app: [feedbacky](https://github.com/sophiabrandt/feedbacky).  
+Practiced some basic Elixir code with [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers), uploaded Repo as [Hangman Game](https://github.com/sophiabrandt/hangman-game).  
+Got a glimpse at what's possibe with React Hooks.
