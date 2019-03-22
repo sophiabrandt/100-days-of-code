@@ -246,3 +246,9 @@ Practiced some basic Elixir code with [Elixir for Programmers](https://codestool
 Continued with Node.js/React.js app: [feedbacky](https://github.com/sophiabrandt/feedbacky).  
 Practiced some basic Elixir code with [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers), uploaded Repo as [Hangman Game](https://github.com/sophiabrandt/hangman-game).  
 Got a glimpse at what's possibe with React Hooks.
+
+### R1D45
+
+Continued with Node.js/React.js app [feedbacky](https://github.com/sophiabrandt/feedbacky): I added route protection with React-Router, a 404 page, and conditional routing on the homepage.  
+I added more to the Elixir [Hangman Game](https://github.com/sophiabrandt/hangman-game).  
+I started learning how to use Next.js for React.js.
