@@ -252,3 +252,9 @@ Got a glimpse at what's possibe with React Hooks.
 Continued with Node.js/React.js app [feedbacky](https://github.com/sophiabrandt/feedbacky): I added route protection with React-Router, a 404 page, and conditional routing on the homepage.  
 I added more to the Elixir [Hangman Game](https://github.com/sophiabrandt/hangman-game).  
 I started learning how to use Next.js for React.js.
+
+### R1D46
+
+Learned about styled components.  
+Watched **[Just Enough Functional Programming in JavaScript](https://egghead.io/courses/just-enough-functional-programming-in-javascript)**.  
+A first peek at Dart.
