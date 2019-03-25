@@ -264,3 +264,8 @@ A first peek at Dart.
 Learned a bit more about Dart. I like it so far, it looks like a better OOP-class based JavaScript - with a better standard library and reactive programming out of the box.  
 I fought with installing Android Studio and AVD Manager on my machine.  
 I learned about Elixir's data structures.
+
+### R1D48
+
+Continued with Dart and Elixir. Both very interesting languages with _very different_ paradigms (object-oriented vs. functional).  
+I learned a bit about React Hooks but haven't solidified my knowledge yet. But the examples look interesting.
