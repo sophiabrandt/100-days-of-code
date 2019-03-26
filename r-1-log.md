@@ -269,3 +269,7 @@ I learned about Elixir's data structures.
 
 Continued with Dart and Elixir. Both very interesting languages with _very different_ paradigms (object-oriented vs. functional).  
 I learned a bit about React Hooks but haven't solidified my knowledge yet. But the examples look interesting.
+
+### R1D49
+
+Continued with Elixir course and learned some things about building APIs. Continued with TypeScript.
