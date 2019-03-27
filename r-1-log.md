@@ -273,3 +273,8 @@ I learned a bit about React Hooks but haven't solidified my knowledge yet. But t
 ### R1D49
 
 Continued with Elixir course and learned some things about building APIs. Continued with TypeScript.
+
+### R1D50
+
+Found a good basic course on Udemy for TypeScript: [Typescript with modern React (i.e. hooks, context, suspense)](https://www.rockyourcode.com/surprisingly-good-free-type-script-udemy-course).  
+I followed along and brushed up on different React concepts like HOC, React Hooks (state reducer), etc.
