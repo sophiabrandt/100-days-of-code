@@ -278,3 +278,7 @@ Continued with Elixir course and learned some things about building APIs. Contin
 
 Found a good basic course on Udemy for TypeScript: [Typescript with modern React (i.e. hooks, context, suspense)](https://www.rockyourcode.com/surprisingly-good-free-type-script-udemy-course).  
 I followed along and brushed up on different React concepts like HOC, React Hooks (state reducer), etc.
+
+### R1D51
+
+Followed TypeScript course on Udemy and created a simple React app with TS, React Hooks, Suspense, hookrouter etc..
