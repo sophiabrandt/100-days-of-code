@@ -282,3 +282,8 @@ I followed along and brushed up on different React concepts like HOC, React Hook
 ### R1D51
 
 Followed TypeScript course on Udemy and created a simple React app with TS, React Hooks, Suspense, hookrouter etc..
+
+### R1D52
+
+Learned some more TypeScript but am still confused about things like generic types.  
+Continued with Elixir.
