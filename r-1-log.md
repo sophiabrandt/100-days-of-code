@@ -287,3 +287,8 @@ Followed TypeScript course on Udemy and created a simple React app with TS, Reac
 
 Learned some more TypeScript but am still confused about things like generic types.  
 Continued with Elixir.
+
+### R1D53
+
+Did not have much time today as I needed to get a fresh install of [Manjaro Linux (with Manjaro Architect)](https://manjaro.org/download/architect/).  
+I continued with [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers). I really like how modular the code is - this is what I love about functional programming: small, decoupled units. The course is also a look at how to build programs and I can totally recommend it.
