@@ -292,3 +292,8 @@ Continued with Elixir.
 
 Did not have much time today as I needed to get a fresh install of [Manjaro Linux (with Manjaro Architect)](https://manjaro.org/download/architect/).  
 I continued with [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers). I really like how modular the code is - this is what I love about functional programming: small, decoupled units. The course is also a look at how to build programs and I can totally recommend it.
+
+### R1D54/take1
+
+I had problems with setting up my dev environment and didn't reach the 1 hour requirement for the challenge.  
+I coded along the Elixir course (see above).
