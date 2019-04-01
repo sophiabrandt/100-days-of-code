@@ -297,3 +297,7 @@ I continued with [Elixir for Programmers](https://codestool.coding-gnome.com/cou
 
 I had problems with setting up my dev environment and didn't reach the 1 hour requirement for the challenge.  
 I coded along the Elixir course (see above).
+
+### R1D54/take2
+
+I learned about [React Hooks `useContext`](https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react/) and worked on a learning app that uses React and GraphQL.
