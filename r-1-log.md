@@ -301,3 +301,8 @@ I coded along the Elixir course (see above).
 ### R1D54/take2
 
 I learned about [React Hooks `useContext`](https://upmostly.com/tutorials/how-to-use-the-usecontext-hook-in-react/) and worked on a learning app that uses React and GraphQL.
+
+### R1D55
+
+I worked on a Node backend with TypeScript and learned that you can use TS/JavaScript classes to model the data from the database.  
+I took a peek at Docker.
