@@ -306,3 +306,10 @@ I learned about [React Hooks `useContext`](https://upmostly.com/tutorials/how-to
 
 I worked on a Node backend with TypeScript and learned that you can use TS/JavaScript classes to model the data from the database.  
 I took a peek at Docker.
+
+### R1D56
+
+I worked on the TypeScript Node.js REST API and did a tiny bit Elixir.  
+No big AHA moments today.  
+
+React: Dave Ceddia has some good short posts on the [useContext Hook](https://daveceddia.com/usecontext-hook/) and the [useReducer Hook](https://daveceddia.com/usereducer-hook-examples/).
