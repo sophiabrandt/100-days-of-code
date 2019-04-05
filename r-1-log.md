@@ -319,3 +319,9 @@ React: Dave Ceddia has some good short posts on the [useContext Hook](https://da
 
 Worked on TypeScript mostly and took a peek at Docker.  
 Went to a meetup and learnt about API Design.
+
+
+### R1D58
+
+Started a new Phoenix project: [mango](https://github.com/sophiabrandt/mango) - see [Phoenix Mastery](https://shankardevy.com/phoenix-book/).  
+Continued with TypeScript/Node project and React project.
