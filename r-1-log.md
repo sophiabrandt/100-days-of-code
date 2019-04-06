@@ -325,3 +325,8 @@ Went to a meetup and learnt about API Design.
 
 Started a new Phoenix project: [mango](https://github.com/sophiabrandt/mango) - see [Phoenix Mastery](https://shankardevy.com/phoenix-book/).  
 Continued with TypeScript/Node project and React project.
+
+### R1D59
+
+Learned some new CSS properties.  
+Worked on Node/TypeScript project.
