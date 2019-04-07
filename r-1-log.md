@@ -330,3 +330,10 @@ Continued with TypeScript/Node project and React project.
 
 Learned some new CSS properties.  
 Worked on Node/TypeScript project.
+
+### R1D60
+
+I worked on TypeScript with Node.  
+I worked on the GraphQL/React Hooks app.  
+I finished the TypeScript workshop from Frontend Masters.  
+I continued with the Phoenix learning app.
