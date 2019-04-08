@@ -337,3 +337,10 @@ I worked on TypeScript with Node.
 I worked on the GraphQL/React Hooks app.  
 I finished the TypeScript workshop from Frontend Masters.  
 I continued with the Phoenix learning app.
+
+### R1D61
+
+I started the Frontend Master's course **[Deep Javascript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3)** by Kyle Simpson.  
+I continued with TypeScript/Node and GraphQL/React apps.  
+I continued with Elixir/Phoenix.  
+Did some Flutter, too.
