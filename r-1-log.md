@@ -344,3 +344,10 @@ I started the Frontend Master's course **[Deep Javascript Foundations, v3](https
 I continued with TypeScript/Node and GraphQL/React apps.  
 I continued with Elixir/Phoenix.  
 Did some Flutter, too.
+
+### R1D62
+
+I worked on the basic Flutter app from an [Udemy course](https://www.udemy.com/dart-and-flutter-the-complete-developers-guide).  
+I continued with my TypeScript/Node app. I find it hard to create databases and tables with a GUI. I rather have an ORM do that for me.  
+I did some [React](https://github.com/sophiabrandt/geopins).  
+I worked on [Phoenix 1.4](https://github.com/sophiabrandt/mango).
