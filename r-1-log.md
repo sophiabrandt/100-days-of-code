@@ -351,3 +351,8 @@ I worked on the basic Flutter app from an [Udemy course](https://www.udemy.com/d
 I continued with my TypeScript/Node app. I find it hard to create databases and tables with a GUI. I rather have an ORM do that for me.  
 I did some [React](https://github.com/sophiabrandt/geopins).  
 I worked on [Phoenix 1.4](https://github.com/sophiabrandt/mango).
+
+
+### R1D63
+
+Finished the main functinalities for Node.js/React.js app **[Feedbacky](https://github.com/sophiabrandt/feedbacky)**. Deployed to [Heroku](https://feed-backy.herokuapp.com/).
