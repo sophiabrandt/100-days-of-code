@@ -352,7 +352,11 @@ I continued with my TypeScript/Node app. I find it hard to create databases and 
 I did some [React](https://github.com/sophiabrandt/geopins).  
 I worked on [Phoenix 1.4](https://github.com/sophiabrandt/mango).
 
-
 ### R1D63
 
 Finished the main functinalities for Node.js/React.js app **[Feedbacky](https://github.com/sophiabrandt/feedbacky)**. Deployed to [Heroku](https://feed-backy.herokuapp.com/).
+
+### R1D64
+
+Worked on [geopins](https://github.com/sophiabrandt/geopins) (React.js & GraphQL).  
+Worked on Elixir/Phoenix with [mango](https://github.com/sophiabrandt/mango).
