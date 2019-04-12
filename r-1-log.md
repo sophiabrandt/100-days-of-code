@@ -360,3 +360,8 @@ Finished the main functinalities for Node.js/React.js app **[Feedbacky](https://
 
 Worked on [geopins](https://github.com/sophiabrandt/geopins) (React.js & GraphQL).  
 Worked on Elixir/Phoenix with [mango](https://github.com/sophiabrandt/mango).
+
+### R1D65
+
+Improved [Feedbacky app](https://github.com/sophiabrandt/feedbacky): improved delete functionality and added more security.  
+Worked with Elixir/Phoenix - I'm getting better and understanding the concurrency model.
