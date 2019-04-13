@@ -365,3 +365,7 @@ Worked on Elixir/Phoenix with [mango](https://github.com/sophiabrandt/mango).
 
 Improved [Feedbacky app](https://github.com/sophiabrandt/feedbacky): improved delete functionality and added more security.  
 Worked with Elixir/Phoenix - I'm getting better and understanding the concurrency model.
+
+### R1D66
+
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
