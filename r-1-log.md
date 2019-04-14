@@ -369,3 +369,7 @@ Worked with Elixir/Phoenix - I'm getting better and understanding the concurrenc
 ### R1D66
 
 Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
+
+### R1D67
+
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
