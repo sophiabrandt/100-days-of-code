@@ -373,3 +373,7 @@ Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com
 ### R1D67
 
 Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
+
+### R1D68
+
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
