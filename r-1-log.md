@@ -377,3 +377,9 @@ Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com
 ### R1D68
 
 Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
+
+### R1D69
+
+
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).  
+Als took a peek at Wes Bos's Advanced React course.
