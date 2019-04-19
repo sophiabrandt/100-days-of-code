@@ -380,6 +380,15 @@ Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com
 
 ### R1D69
 
-
 Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).  
 Als took a peek at Wes Bos's Advanced React course.
+
+### R1D70
+
+Continued with GraphQL and React course, learned about prisma.io.  
+Did a bit of Elixir and TypeScript.
+
+### R1D71
+
+TypeScript and Node.
+
