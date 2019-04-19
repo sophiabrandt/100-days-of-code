@@ -392,3 +392,6 @@ Did a bit of Elixir and TypeScript.
 
 TypeScript and Node.
 
+### R1D72
+
+TypeScript and Node. And continued with Elixir, Phoenix and maybe getting the hang of concurrency in Elixir.
