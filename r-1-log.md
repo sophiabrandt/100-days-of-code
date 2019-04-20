@@ -396,6 +396,6 @@ TypeScript and Node.
 
 TypeScript and Node. And continued with Elixir, Phoenix and maybe getting the hang of concurrency in Elixir.
 
-### R1D73
+### R1D72/extra
 
-Slow day, just watching some Youtube videos about JavaScript.
+Slow day, just watching some Youtube videos about JavaScript. Not counting this as a #100DaysOfCode day.
