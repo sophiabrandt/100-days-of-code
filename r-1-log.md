@@ -399,3 +399,7 @@ TypeScript and Node. And continued with Elixir, Phoenix and maybe getting the ha
 ### R1D72/extra
 
 Slow day, just watching some Youtube videos about JavaScript. Not counting this as a #100DaysOfCode day.
+
+### R1D72/pause
+
+Pause day.
