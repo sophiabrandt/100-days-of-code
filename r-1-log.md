@@ -403,3 +403,7 @@ Slow day, just watching some Youtube videos about JavaScript. Not counting this 
 ### R1D72/pause
 
 Pause day.
+
+### R1D72/svelte
+
+Looking at [Svelte](https://news.ycombinator.com/item?id=19719118) framework. Doesn't count for #100DaysOfCode.
