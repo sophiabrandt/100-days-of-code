@@ -411,3 +411,7 @@ Looking at [Svelte](https://news.ycombinator.com/item?id=19719118) framework. Do
 ### R1D73
 
 Continued with Phoenix app, some GraphQL, AWS Amplify.
+
+### R1D74
+
+Continued with [AWS Amplify](https://www.udemy.com/serverless-react-with-aws-amplify/).
