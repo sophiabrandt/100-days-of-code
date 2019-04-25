@@ -415,3 +415,7 @@ Continued with Phoenix app, some GraphQL, AWS Amplify.
 ### R1D74
 
 Continued with [AWS Amplify](https://www.udemy.com/serverless-react-with-aws-amplify/).
+
+### R1D75
+
+See R1D74.
