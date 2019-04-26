@@ -419,3 +419,7 @@ Continued with [AWS Amplify](https://www.udemy.com/serverless-react-with-aws-amp
 ### R1D75
 
 See R1D74.
+
+### R1D76
+
+Same as yesterday, see [amplify-notetaker](https://github.com/sophiabrandt/amplify-notetaker).
