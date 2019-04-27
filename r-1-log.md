@@ -423,3 +423,8 @@ See R1D74.
 ### R1D76
 
 Same as yesterday, see [amplify-notetaker](https://github.com/sophiabrandt/amplify-notetaker).
+
+### R1D77
+
+Continued with AWS Amplify course but did everything with React Hooks.  
+Created a custom data fetching hook.
