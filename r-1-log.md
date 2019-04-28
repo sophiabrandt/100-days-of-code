@@ -428,3 +428,7 @@ Same as yesterday, see [amplify-notetaker](https://github.com/sophiabrandt/ampli
 
 Continued with AWS Amplify course but did everything with React Hooks.  
 Created a custom data fetching hook.
+
+### R1D78
+
+More AWS Amplify and React.
