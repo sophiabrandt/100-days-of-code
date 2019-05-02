@@ -436,3 +436,7 @@ More AWS Amplify and React.
 ### R1D79
 
 Learning more about [Hooks](https://overreacted.io/a-complete-guide-to-useeffect/), working with AWS Amplify and React.
+
+### R1D80
+
+Learning more about [Hooks](https://overreacted.io/a-complete-guide-to-useeffect/), working with AWS Amplify and React.
