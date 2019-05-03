@@ -444,3 +444,7 @@ Learning more about [Hooks](https://overreacted.io/a-complete-guide-to-useeffect
 ### R1D81
 
 Working with AWS Amplify and React.
+
+### R1D82
+
+Working with AWS Amplify and React.
