@@ -448,3 +448,7 @@ Working with AWS Amplify and React.
 ### R1D82
 
 Working with AWS Amplify and React.
+
+### R1D83
+
+Working with AWS Amplify and React. Still working with Hooks and `useEffect`.
