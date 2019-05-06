@@ -456,3 +456,7 @@ Working with AWS Amplify and React. Still working with Hooks and `useEffect`.
 ### R1D84
 
 Still trying to solve my memory leak on unmounted component. I have a cleanup function in `useEffect` but it doesn't help.
+
+### R1D85
+
+Still trying to solve my memory leak on unmounted component. I have a cleanup function in `useEffect` but it doesn't help.
