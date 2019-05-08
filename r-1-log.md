@@ -460,3 +460,11 @@ Still trying to solve my memory leak on unmounted component. I have a cleanup fu
 ### R1D85
 
 Still trying to solve my memory leak on unmounted component. I have a cleanup function in `useEffect` but it doesn't help.
+
+### R1D86
+
+see above.
+
+### R1D87
+
+see above.
