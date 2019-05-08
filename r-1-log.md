@@ -468,3 +468,7 @@ see above.
 ### R1D87
 
 see above.
+
+### R1D88
+
+Still trying to fix my memory leak with `useEffect` - possible bug? (see [here](https://github.com/facebook/react/pull/15067).)
