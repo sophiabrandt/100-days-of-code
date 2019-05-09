@@ -469,3 +469,6 @@ see above.
 
 Still trying to fix my memory leak with `useEffect` - possible bug? (see [here](https://github.com/facebook/react/pull/15067).)
 
+### R1D88
+
+Concentrating on React.js and JavaScript right now. I'm doing Wes Bos's _Advanced React_ course now. There are some hiccups with Prisma.io as the implementation has changed a bit.
