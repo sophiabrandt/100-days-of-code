@@ -476,3 +476,7 @@ Concentrating on React.js and JavaScript right now. I'm doing Wes Bos's _Advance
 ### R1D89
 
 Continuing _Advanced React_ - wrote first resolvers for queries and mutations.
+
+### R1D90
+
+Continuing _Advanced React_ - frontend.
