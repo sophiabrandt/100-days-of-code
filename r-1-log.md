@@ -485,3 +485,6 @@ Continuing _Advanced React_ - frontend.
 
 Continuing _Advanced React_ - frontend.
 
+### R1D92
+
+Advanced React, watching some videos about functional JS, Ramda, etc.
