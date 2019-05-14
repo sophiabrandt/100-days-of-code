@@ -488,3 +488,7 @@ Continuing _Advanced React_ - frontend.
 ### R1D92
 
 Advanced React, watching some videos about functional JS, Ramda, etc.
+
+### R1D93
+
+More React. Following Wes Bos's course.
