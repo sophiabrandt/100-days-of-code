@@ -492,3 +492,11 @@ Advanced React, watching some videos about functional JS, Ramda, etc.
 ### R1D93
 
 More React. Following Wes Bos's course.
+
+### R1D94
+
+More React. Following Wes Bos's course.
+
+### R1D95
+
+More React. Following Wes Bos's course.
