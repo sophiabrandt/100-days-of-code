@@ -508,3 +508,7 @@ Watching some videos on React and JavaScript.
 ### R1D95b
 
 Full-day conference.
+
+### R1D96
+
+Continuing _Advanced React_.
