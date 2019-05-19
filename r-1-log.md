@@ -504,3 +504,7 @@ More React. Following Wes Bos's course.
 ### R1D95a
 
 Watching some videos on React and JavaScript.
+
+### R1D95b
+
+Full-day conference.
