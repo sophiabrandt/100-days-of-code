@@ -310,16 +310,14 @@ I took a peek at Docker.
 ### R1D56
 
 I worked on the TypeScript Node.js REST API and did a tiny bit Elixir.  
-No big AHA moments today.  
+No big AHA moments today.
 
 React: Dave Ceddia has some good short posts on the [useContext Hook](https://daveceddia.com/usecontext-hook/) and the [useReducer Hook](https://daveceddia.com/usereducer-hook-examples/).
-
 
 ### R1D57
 
 Worked on TypeScript mostly and took a peek at Docker.  
 Went to a meetup and learnt about API Design.
-
 
 ### R1D58
 
@@ -512,3 +510,7 @@ Full-day conference.
 ### R1D96
 
 Continuing _Advanced React_.
+
+### R1D97
+
+Started learning more about [Svelte.js](https://svelte.dev/).
