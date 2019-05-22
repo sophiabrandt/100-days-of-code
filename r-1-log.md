@@ -514,3 +514,7 @@ Continuing _Advanced React_.
 ### R1D97
 
 Started learning more about [Svelte.js](https://svelte.dev/).
+
+### R1D97a
+
+Continued with Svelte.js.
