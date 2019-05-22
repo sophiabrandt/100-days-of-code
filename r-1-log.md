@@ -518,3 +518,7 @@ Started learning more about [Svelte.js](https://svelte.dev/).
 ### R1D97a
 
 Continued with Svelte.js.
+
+### R1D98
+
+Working with Docker.
