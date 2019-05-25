@@ -522,3 +522,11 @@ Continued with Svelte.js.
 ### R1D98
 
 Working with Docker.
+
+### R1D99
+
+Working with Docker.
+
+### R1D100
+
+Working with Svelte.js.
