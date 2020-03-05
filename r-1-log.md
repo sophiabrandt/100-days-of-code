@@ -366,19 +366,19 @@ Worked with Elixir/Phoenix - I'm getting better and understanding the concurrenc
 
 ### R1D66
 
-Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt/geopins).
 
 ### R1D67
 
-Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt/geopins).
 
 ### R1D68
 
-Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt/geopins).
 
 ### R1D69
 
-Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt.com/geopins).  
+Worked with GraphQL and React, see [geopins](https://github.com/sophiabrandt/geopins).  
 Als took a peek at Wes Bos's Advanced React course.
 
 ### R1D70
